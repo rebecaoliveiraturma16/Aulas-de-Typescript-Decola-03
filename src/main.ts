@@ -58,11 +58,5 @@ console.log (y, ' x ', '10', ' = ', y*10);
 
 console.log("-----------------------");
 
-let e = 6;
-for(let x = 0; x <= 10; x++){ 
-console.log(e, 'x', x, ' = ', e*x); 
-}
-
-console.log("-----------------------");
 
 
